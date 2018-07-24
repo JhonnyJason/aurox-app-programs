@@ -664,7 +664,7 @@ programs =
       'iconfilename': 'perform1.svg'
       'giffilename': 'perform1.gif'
       'descriptionkey': 'perform1desc'
-      'durationMS': 55000
+      'durationMS': 61000
       'intensity': 2
       'temperature': 3
       'vibration': 1
@@ -813,11 +813,11 @@ programs =
         10
         16
         0
+        50
+        116
         16
-        0
-        16
-        0
-        16
+        30
+        76
         0
         16
         0
