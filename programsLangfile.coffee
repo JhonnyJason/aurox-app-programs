@@ -4,8 +4,8 @@ programLangStrings =
     'en': 'Off-time'
     'es': 'Descanso'
   'relax1desc':
-    'de': 'Möchtest du dich von Zeit zu Zeit von der Welt trennen? Wenn ja, lassen Sie sich mit dem Aurox Headband entspannen, während Sie lesen, meditieren, spazieren gehen oder Ihre Lieblingshobbys genießen.'
-    'en': 'Do you enjoy disconecting from the outside world from time to time? If so, let the Aurox Headband help you relax while you read, meditate, take a walk or enjoy your favorite hobbies.'
+    'de': 'Möchtest du dich von Zeit zu Zeit von der Welt trennen? Wenn ja, lassen Sie sich mit dem Aurox Headband entspannen, während Sie lesen, meditieren oder einfach nur entspannen.'
+    'en': 'Do you enjoy disconecting from the outside world from time to time? If so, let the Aurox Headband help you relax while you read, meditate, or just lean back and relax.'
     'es': '¿Te gusta desconectar del mundo de vez en cuando? Si es así, deja que la Aurox Headband te ayude a relajarte mientras lees, meditas, das un paseo o disfrutas de tus hobbies favoritos.'
   'relax2':
     'de': 'Massage'

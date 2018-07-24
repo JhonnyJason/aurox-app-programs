@@ -7,43 +7,123 @@ programs =
       'iconfilename': 'relax1.svg'
       'giffilename': 'relax1.gif'
       'descriptionkey': 'relax1desc'
-      'durationMS': 50200
-      'intensity': 6
-      'temperature': 6
-      'vibration': 0
+      'durationMS': 112800
+      'intensity': 2
+      'temperature': 4
+      'vibration': 4
       'buffertemp1': [
         50
-        50
+        44
+        64
+        44
+        64
+        40
+        40
+        40
+        40
+        40
+        40
+        40
       ]
       'buffertemp2': [
+        50
+        44
+        50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
         50
         50
       ]
       'buffertemp3': [
         50
         50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
       ]
       'buffertemp4': [
         50
         50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
       ]
       'buffervib1': [
-        20
+        15
         10
+        10
+        10
+        10
+        10
+        25
+        0
+        25
+        0
+        15
+        0
       ]
       'buffervib2': [
-        20
+        15
         10
+        10
+        10
+        10
+        10
+        25
+        0
+        25
+        0
+        20
+        0
       ]
       'bufferagression': [
         96
         96
+        96
+        96
+        96
+        96
+        96
+        96
+        96
+        96
+        96
+        96
       ]
       'bufferduration': [
-        2
-        500
+        10
+        200
+        100
+        300
+        200
+        300
+        3
+        3
+        3
+        3
+        3
+        3
       ]
-      'dataPoints': 2
+      'dataPoints': 12
     }
     {
       'id': 2
