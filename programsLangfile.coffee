@@ -44,7 +44,7 @@ programLangStrings =
     'en': 'Perform'
     'es': 'Rendimiento'
   'perform1desc':
-    'de': 'Sie müssen Ihre Konzentration und Aufmerksamkeit über einen längeren Zeitraum aufrecht halten? Setzen Sie Ihr aurox Headband während dieser Tätigkeiten (Bürotätigkeiten, Autofahren, Seminar, Schulungen, etc.) auf. aurox Headband hilft Ihnen durch sanfte und periodische Kühlimpulse diese Herausforderungen zu meistern. TEST'
+    'de': 'Sie müssen Ihre Konzentration und Aufmerksamkeit über einen längeren Zeitraum aufrecht halten? Setzen Sie Ihr aurox Headband während dieser Tätigkeiten (Bürotätigkeiten, Autofahren, Seminar, Schulungen, etc.) auf. aurox Headband hilft Ihnen durch sanfte und periodische Kühlimpulse diese Herausforderungen zu meistern. TEST!!!!!!!!!!'
     'en': 'Do you need to keep your concentration and attention for a long period to be highly productive? Put on your Aurox Headband during these activities and it will help you master these challenges thanks to periodical and smooth cooling pulses that will activate all your senses.'
     'es': '¿Necesitas mantener la concentración durante largos periodos para ser altamente productivo? La Aurox Headband le ayudará a dominar estas situaciones gracias a las suaves ráfagas de frío que activarán todos tus sentidos.'
   'perform2':
