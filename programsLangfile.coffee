@@ -40,7 +40,7 @@ programLangStrings =
     'en': 'Christmas party here, birthday party there and a business event between? Drinking alcohol harms and dehydrates your body. Symptoms such as headache, nausea and fatigue may occur. Aurox Headband can help you get rid of these symptoms and increase your wellbeing. Be sure to add enough minerals to your body and drink a lot of water. Fresh air and adequate exercises in combination with the aurox headband can help you to get through.'
     'es': '¿Excesos de navidad, fiestas de cumpleaños o eventos de empresa a la vista? Beber alcohol daña y deshidrata su cuerpo, generando en muchos casos dolor de cabeza, nauseas y fatiga. El Aurox Headband le puede ayudar a deshacerse de estos sintomas y aumentar su bienestar. Asegurese de suministrar suficientes minerales a su cuerpo y de beber mucha agua. El aire fresco y realizar ejercicio en combinación con el empleo del Aurox Headban pueden ayudarle a superar la resaca.'
   'perform1':
-    'de': 'Leistung'
+    'de': 'kpüopü'
     'en': 'Perform'
     'es': 'Rendimiento'
   'perform1desc':
