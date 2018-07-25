@@ -2114,8 +2114,8 @@ programs =
       'iconfilename': 'perform3.svg'
       'descriptionkey': 'perform3desc'
       'durationMS': 99000
-      'intensity': 5
-      'temperature': 3
+      'intensity': 2
+      'temperature': 5
       'vibration': 0
       'buffertemp1': [
         50
