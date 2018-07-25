@@ -727,41 +727,97 @@ programs =
       'namekey': 'relax3'
       'iconfilename': 'relax3.svg'
       'descriptionkey': 'relax3desc'
-      'durationMS': 285000
-      'intensity': 3
-      'temperature': 4
+      'durationMS': 270000
+      'intensity': 2
+      'temperature': 2
       'vibration': 0
       'buffertemp1': [
-        50
-        80
+        56
+        64
+        52
+        64
+        56
+        60
+        56
+        60
+        66
+        60
         50
       ]
       'buffertemp2': [
-        50
-        80
+        56
+        64
+        52
+        64
+        56
+        60
+        56
+        60
+        66
+        60
         50
       ]
       'buffertemp3': [
         50
         80
         50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
+        50
       ]
       'buffertemp4': [
-        50
-        80
+        56
+        64
+        52
+        64
+        56
+        60
+        56
+        60
+        66
+        60
         50
       ]
       'buffervib1': [
         0
-        20
+        0
+        0
+        0
+        0
+        0
+        0
+        0
+        0
+        0
         0
       ]
       'buffervib2': [
         0
-        20
+        0
+        0
+        0
+        0
+        0
+        0
+        0
+        0
+        0
         0
       ]
       'bufferagression': [
+        96
+        96
+        96
+        96
+        96
+        96
+        96
+        96
         96
         96
         96
@@ -770,8 +826,16 @@ programs =
         300
         100
         300
+        100
+        300
+        300
+        300
+        300
+        100
+        300
+        300
       ]
-      'dataPoints': 1
+      'dataPoints': 9
     }
     {
       'id': 4
