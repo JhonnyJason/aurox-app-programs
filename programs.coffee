@@ -844,10 +844,10 @@ programs =
       'iconfilename': 'relax4.svg'
       'giffilename': 'relax4.gif'
       'descriptionkey': 'relax4desc'
-      'durationMS': 285000
-      'intensity': 3
-      'temperature': 4
-      'vibration': 0
+      'durationMS': 26200
+      'intensity': 4
+      'temperature': 5
+      'vibration': 4
       'buffertemp1': [
         50
         50
