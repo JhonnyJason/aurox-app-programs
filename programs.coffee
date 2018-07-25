@@ -2113,16 +2113,16 @@ programs =
       'namekey': 'perform3'
       'iconfilename': 'perform3.svg'
       'descriptionkey': 'perform3desc'
-      'durationMS': 55000
+      'durationMS': 42600
       'intensity': 5
       'temperature': 3
       'vibration': 6
       'buffertemp1': [
         50
-        50
-        50
-        50
-        50
+        44
+        52
+        40
+        52
         50
         50
         50
@@ -2145,10 +2145,10 @@ programs =
       ]
       'buffertemp2': [
         50
-        50
-        50
-        50
-        50
+        44
+        52
+        40
+        52
         50
         50
         50
@@ -2197,10 +2197,10 @@ programs =
       ]
       'buffertemp4': [
         50
-        50
-        50
-        50
-        50
+        44
+        52
+        40
+        52
         50
         50
         50
@@ -2300,11 +2300,11 @@ programs =
         96
       ]
       'bufferduration': [
-        4
-        4
-        4
-        4
-        4
+        30
+        80
+        80
+        80
+        80
         4
         4
         4
