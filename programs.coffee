@@ -1605,7 +1605,7 @@ programs =
       'iconfilename': 'perform2.svg'
       'giffilename': 'perform2.gif'
       'descriptionkey': 'perform2desc'
-      'durationMS': 25900
+      'durationMS': 30900
       'intensity': 5
       'temperature': 3
       'vibration': 6
@@ -1649,6 +1649,7 @@ programs =
         72
         50
         40
+        72
         72
         72
         72
@@ -1730,8 +1731,10 @@ programs =
         40
         40
         40
+        40
       ]
       'buffertemp3': [
+        50
         50
         50
         50
@@ -1852,6 +1855,7 @@ programs =
         72
         72
         72
+        72
       ]
       'buffervib1': [
         12
@@ -1911,8 +1915,9 @@ programs =
         16
         200
         16
+        30
         16
-        16
+        0
       ]
       'buffervib2': [
         12
@@ -1972,10 +1977,12 @@ programs =
         16
         200
         16
+        30
         16
-        16
+        0
       ]
       'bufferagression': [
+        96
         96
         96
         96
@@ -2096,8 +2103,9 @@ programs =
         4
         4
         4
+        50
       ]
-      'dataPoints': 59
+      'dataPoints': 60
     }
     {
       'id': 8
