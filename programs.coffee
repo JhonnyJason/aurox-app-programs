@@ -131,7 +131,7 @@ programs =
       'namekey': 'relax2'
       'iconfilename': 'relax2.svg'
       'descriptionkey': 'relax2desc'
-      'durationMS': 25100
+      'durationMS': 26100
       'intensity': 4
       'temperature': 4
       'vibration': 6
@@ -178,8 +178,10 @@ programs =
         50
         50
         50
+        50
       ]
       'buffertemp2': [
+        50
         50
         50
         50
@@ -266,8 +268,10 @@ programs =
         50
         50
         50
+        50
       ]
       'buffertemp4': [
+        50
         50
         50
         50
@@ -354,6 +358,7 @@ programs =
         0
         15
         9
+        9
       ]
       'buffervib2': [
         20
@@ -398,8 +403,10 @@ programs =
         25
         15
         9
+        9
       ]
       'bufferagression': [
+        96
         96
         96
         96
@@ -486,8 +493,9 @@ programs =
         10
         3
         40
+        10
       ]
-      'dataPoints': 42
+      'dataPoints': 43
     }
     {
       'id': 3
