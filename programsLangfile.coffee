@@ -2,7 +2,7 @@ programLangStrings =
     'relax1':
         'de': 'Beruhigung'
         'en': 'Chillout'
-        'es': 'Relájate'
+        'es': 'Chilling'
         'cn': '自我放空'
     'relax1desc':
         'de': 'Hast du gerne Zeit für dich? Manchmal ist es notwendig, sich von allem zu trennen, um sich zu entspannen und die Ruhe zu Manchmal ist es notwendig, zur Ruhe zu kommen und sich zu entspannen. Verwenden Sie das  AUROX® Headband um noch effektiver zu relaxen.'
