@@ -10,10 +10,10 @@ programLangStrings =
         'es': '¿Te gusta tener tiempo para ti? A veces es necesario esconectar del mundo para relajarse y disfrutar de la tranquilidad. ¡AUROX® Headband es tu solución!'
         'cn': '你喜欢给予自己一些独处的时间吗？有时候置身自己于世界之外的舒适感是必不可少的，那么，AUROX® Headband（头戴仪）就是你的归属。'
     'relax2':
-        'de': 'Befreien'
-        'en': 'Relieve'
-        'es': 'Alivia'
-        'cn': '舒缓时刻'
+        'de': 'Freiheit'
+        'en': 'Freedom'
+        'es': 'Libertad'
+        'cn': '自由'
     'relax2desc':
         'de': 'Das AUROX® Headband bietet eine angenehme Massage und stimuliert mit anregender Kühlung. Durch abwechselnde Kühlung Ihres Kopfes wird ein positives und frisches Gefühl in Ihren Sinn gebracht. Gerade nach körperlicher oder geistiger Anstrengung ist eine Erholungsphase zwingend erforderlich.'
         'en': 'The AUROX® Headband provides a refreshing massage effect by stimulating cooling processes. By alternating cooling applied to your head, a positive and fresh feeling is brought to your sense. After physical or mental effort a period of recovery is absolutely necessary.'
@@ -45,10 +45,10 @@ programLangStrings =
         'es': 'Resaca'
         'cn': '宿醉救星'
     'relax5desc':
-        'de': 'Ist Ihr Leben voller Feste, Partys oder Abendessen auswärts, die später möglicherweise in den Clubs enden? Alkohol trinken schadet und entwässert Ihren Körper. Sie fühlen sich vielleicht schrecklich, aber das AUROX® Headband kann Ihnen dabei helfen, all diese Probleme zu beseitigen. Wasser trinken, frische Luft schnappen und AUROX® Headband einschalten. Erlangen Sie Ihr Wohlbefinden wieder zurück!'
-        'en': 'Is your life full of celebrations, farewells or dinners that end up in clubs later than the expected? Drinking alcohol harms and dehydrates your body. You may feel horrible but the AUROX® Headband can help you get rid of all these. Drink water, get some fresh air and switch on your device. Your wellbeing will increase much!'
-        'es': '¿Está tu vida repleta de celebraciones, despedidas o cenas que terminan más tarde de lo esperado? Beber alcohol daña y deshidrata tu cuerpo. Sentirás malestar pero AUROX® Headband te ayuda a deshacerte de todo eso. Bebe agua, toma aire fresco y enciende tu dispositivo. ¡Tu bienestar incrementará en abundancia!'
-        'cn': '庆祝活动、告别晚会或者各种聚会充斥着你的生活？酒精使你感觉十分不适，而AUROX® Headband（头戴仪）使你彻底摆脱。一杯水，新鲜空气，开启你的设备，一切犹如春风拂面。'
+        'de': 'Ist Ihr Leben voller Feste, Partys oder Abendessen auswärts, die später möglicherweise in den Clubs enden? Alkohol trinken schadet und entwässert Ihren Körper. Sie fühlen sich vielleicht schrecklich, aber das AUROX® Headband kann Ihnen dabei helfen, Ihr Wohlbefinden zu steigern. Wasser trinken, frische Luft schnappen und AUROX® Headband einschalten.'
+        'en': 'Is your life full of celebrations, farewells or dinners that end up in clubs later than the expected? Drinking alcohol harms and dehydrates your body. You may feel horrible but the AUROX® Headband can help you to increase your wellbeing. Drink water, get some fresh air and switch on your device.'
+        'es': '¿Está tu vida repleta de celebraciones, despedidas o cenas que terminan más tarde de lo esperado? Beber alcohol daña y deshidrata tu cuerpo. Sentirás malestar pero AUROX® Headband te ayuda a aumentar el bienestar. Bebe agua, toma aire fresco y enciende tu dispositivo. ¡Tu bienestar incrementará en abundancia!'
+        'cn': '您的生活中是否充满了庆祝活动，告别或晚餐，最终会在俱乐部中落后于预期？ 饮酒有害并使身体脱水。 您可能感觉很糟糕，但AUROX®头带可以帮助您增加健康。 喝水，呼吸新鲜空气并打开设备。'
     'perform1':
         'de': 'Bleib wach'
         'en': 'Stay up'
@@ -85,10 +85,10 @@ programLangStrings =
         'es': 'Céntrate'
         'cn': '聚精会神'
     'perform4desc':
-        'de': 'Fällt es Ihnen schwer,  konzentriert zu bleiben? Haben Schwierigkeiten damit, alles klar'
-        'en': 'Is it hard to stay focussed today? You have difficulties to see everything clear? This program will help you improve your concentration now!'
-        'es': '¿Te cuesta centrarte? ¿Tienes dificultades para ver las cosas claras? ¡Este programa te ayudará a mejorar tu concentración al instante!'
-        'cn': '感到无法集中精神？视线开始模糊？选择此功能，恢复精神！'
+        'de': 'Fällt es Ihnen schwer fokussiert und konzentriert zu bleiben? Diese Programm kann durch verschiedene Kühlverläufe eine erfrischende Wirkung erzielen, was sich positiv auf ihre Vigilanz auswirken kann.'
+        'en': 'Is it difficult for you to stay focused and focused? This program can provide a refreshing effect through different cooling patterns, which can have a positive effect on your vigilance.'
+        'es': '¿Es difícil para ti mantenerte enfocado y enfocado? Este programa puede proporcionar un efecto refrescante a través de diferentes patrones de enfriamiento, lo que puede tener un efecto positivo en su vigilancia.'
+        'cn': '你难以保持专注和专注吗？ 该程序可以通过不同的冷却模式提供清新效果，这可以对您的警惕产生积极影响。'
     'perform5':
         'de': 'Morgen!'
         'en': 'Wake up!'
