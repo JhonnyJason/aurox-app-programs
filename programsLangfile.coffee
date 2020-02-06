@@ -99,5 +99,45 @@ programLangStrings =
         'en': 'Is it difficult to wake up? Want to stay in bed longer? This is the best choice to start your day in a completely good way and with the best of your moods!'
         'es': '¿Se te hace difícil levantarte por las mañanas? ¿Quieres quedarte más tiempo en tu cama? ¡Esta es la mejor elección para empezar el día de la mejor manera y con el mejor humor posible!'
         'cn': '起床困难户？赖床户？一触即发，告别沉睡！'
+    'legcare1':
+        'de': 'Gesundes Sitzen'
+        'en': 'Healthy Sitting'
+        'es': 'Siéntate'
+        'cn': '健康坐'
+    'legcare1desc':
+        'de': 'Verbringen Sie längere Zeit im Sitzen? Es ist hiflreich, die Beine mit Kühlverläufen zu behandeln. Es fördert den Blutfluß der Beine bei der Arbeit, im Büro oder auf langen Reisestrecken.'
+        'en': 'Do you spend long periods of time sitting? It is necessary to apply some cooling and warming effects to increase the blood flow when working in an office or travelling long distances.'
+        'es': '¿Pasas largos períodos de tiempo sentado? Es necesario aplicar algunos efectos de enfriamiento y calentamiento para aumentar el flujo sanguíneo al trabajar en una oficina o viajar largas distancias.'
+        'cn': '您是否花费很长时间坐着？在办公室工作或长途旅行时，有必要施加一些降温和加温效果以增加血液流量。'
+    'legcare2':
+        'de': 'Gesund Stehen'
+        'en': 'Healthy Standing'
+        'es': 'Levántate'
+        'cn': '健康的地位'
+    'legcare2desc':
+        'de': 'Stehen sie täglich mehrere Stunden? Drücken Sie die Taste und aktivieren Sie Ihre Beine mit einer kühlenden Behandlung.'
+        'en': 'Does your day to day activity involve long periods of time standing? Press the button and activate your legs applying some cooling and warming effects.'
+        'es': '¿Su actividad diaria implica largos períodos de tiempo de pie? Presione el botón y active sus piernas aplicando algunos efectos de enfriamiento y calentamiento.'
+        'cn': '您的日常练习是否需要长时间站立？按下按钮并激活双腿，从而起到一些降温和保暖的作用。'
+    'legcare3':
+        'de': 'Aufwärmen'
+        'en': 'Warm Up'
+        'es': 'Calentamiento'
+        'cn': '暖身'
+    'legcare3desc':
+        'de': 'Müssen Sie Ihre Muskeln aktivieren, um eine bessere Leistung zu erzielen als je? Warten Sie nicht länger und drücken Sie die Taste! Mach das Beste aus deiner Aktivität!'
+        'en': 'Do you need to activate your muscles to perform better than ever? Don‘t wait longer and press the button! Make the best out of your activity!'
+        'es': '¿Necesita activar sus músculos para rendir mejor que nunca? ¡No espere más y presione el botón! ¡Aproveche al máximo su actividad!'
+        'cn': '您是否需要激活肌肉以使其表现得比曾经吗？不要等待更长的时间并按下按钮！尽力而为失去您的活动！'
+    'legcare4':
+        'de': 'Kneipp-Pflege'
+        'en': 'Kneipp Care'
+        'es': 'Cuidado Kneipp'
+        'cn': '克奈普护理'
+    'legcare4desc':
+        'de': 'Sehen Sie, wie gut Ihre Zirkulation sein wird, nachdem Sie den AUROX probiert haben Actileg simuliert Erwärmungs- und Abkühlungskontraste.'
+        'en': 'See how well your circulation will be after you try the AUROX Actileg simulating warming and cooling contrasts.'
+        'es': 'Vea qué tan bien estará su circulación después de probar el AUROX Actileg simulando contrastes de calentamiento y enfriamiento.'
+        'cn': '尝试AUROX后，看看您的血液循环情况如何Actileg模拟升温和降温对比'
 
 export default programLangStrings

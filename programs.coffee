@@ -519,5 +519,151 @@ programs =
             'dataPoints': 46
         }
     ]
+    'legcareprograms': [
+        {
+            'id': 11
+            'type': 'legcare'
+            'namekey': 'legcare1'
+            'iconfilename': 'legcare1.svg'
+            'descriptionkey': 'legcare1desc'
+            'durationMS': 180000
+            'intensity': 5
+            'temperature': 6
+            'vibration': 3
+            'buffertemp1': [
+                50
+            ]
+            'buffertemp2': [
+                50
+            ]
+            'buffertemp3': [
+                50
+            ]
+            'buffertemp4': [
+                50
+            ]
+            'buffervib1': [
+                20
+            ]
+            'buffervib2': [
+                20
+            ]
+            'bufferagression': [
+                90
+            ]
+            'bufferduration': [
+                180000
+            ]
+            'dataPoints': 1
+        }
+        {
+            'id': 12
+            'type': 'legcare'
+            'namekey': 'legcare2'
+            'iconfilename': 'legcare2.svg'
+            'descriptionkey': 'legcare2desc'
+            'durationMS': 400000
+            'intensity': 4
+            'temperature': 6
+            'vibration': 0
+            'buffertemp1': [
+                50
+            ]
+            'buffertemp2': [
+                50
+            ]
+            'buffertemp3': [
+                50
+            ]
+            'buffertemp4': [
+                50
+            ]
+            'buffervib1': [
+                0
+            ]
+            'buffervib2': [
+                0
+            ]
+            'bufferagression': [
+                90
+            ]
+            'bufferduration': [
+                400000
+            ]
+            'dataPoints': 1
+        }
+        {
+            'id': 13
+            'type': 'legcare'
+            'namekey': 'legcare3'
+            'iconfilename': 'legcare3.svg'
+            'descriptionkey': 'legcare3desc'
+            'durationMS': 350000
+            'intensity': 6
+            'temperature': 5
+            'vibration': 0
+            'buffertemp1': [
+                50
+            ]
+            'buffertemp2': [
+                50
+            ]
+            'buffertemp3': [
+                50
+            ]
+            'buffertemp4': [
+                50
+            ]
+            'buffervib1': [
+                0
+            ]
+            'buffervib2': [
+                0
+            ]
+            'bufferagression': [
+                90
+            ]
+            'bufferduration': [
+                350000
+            ]
+            'dataPoints': 1
+        }
+        {
+            'id': 14
+            'type': 'legcare'
+            'namekey': 'legcare4'
+            'iconfilename': 'legcare4.svg'
+            'descriptionkey': 'legcare4desc'
+            'durationMS': 510000
+            'intensity': 6
+            'temperature': 6
+            'vibration': 3
+            'buffertemp1': [
+                50
+            ]
+            'buffertemp2': [
+                50
+            ]
+            'buffertemp3': [
+                50
+            ]
+            'buffertemp4': [
+                50
+            ]
+            'buffervib1': [
+                0
+            ]
+            'buffervib2': [
+                0
+            ]
+            'bufferagression': [
+                90
+            ]
+            'bufferduration': [
+                510000
+            ]
+            'dataPoints': 1
+        }
+    ]
 
 export default programs
